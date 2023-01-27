@@ -13,3 +13,6 @@ body {
   div.footer{
     background-color: rgb(197, 201, 9);
   }
+
+  div.middle p{font-style: oblique; background-color: aqua;
+}
